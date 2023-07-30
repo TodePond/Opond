@@ -13,29 +13,32 @@ My use of software can be split into three categories.
 
 ### Operating system
 
-- Windows on my desktop.
-- ChromeOS on my laptop.
-- Android on my phone.
-- MacOS on my laptop.
-- Horizon on my handheld.
-- Orbis OS on our console.
+- Desktop: Windows
+- Phone: Android
+- Laptop: ChromeOS
+- Laptop: MacOS
+- Console: Horizon
+- Console: Orbis OS
 
 ### Browser
 
-- Chrome everywhere.
+- Chrome
 
 ### Communication
 
-- Email: Gmail.
-- Messaging: Whatsapp.
-- Messaging: Messenger.
-- Calling: Giffgaff.
+- Email: Gmail
+- Messaging: Whatsapp
+- Messaging: Messenger
+- Messaging: Giffgaff
+- Calling: Giffgaff
+- Calling: Discord
+- Calling: Google Meet
 
 ### Social media
 
 - Scrolling: Mastodon
-- Doom-scrolling: X.
-- Doom-scrolling: Reddit.
+- Doom-scrolling: X
+- Doom-scrolling: Reddit
 
 ### Entertainment
 
