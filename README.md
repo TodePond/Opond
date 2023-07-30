@@ -17,10 +17,30 @@ My use of software can be split into three categories.
 - ChromeOS on my laptop.
 - Android on my phone.
 - MacOS on my laptop.
+- Horizon on my handheld.
+- Orbis OS on our console.
 
 ### Browser
 
 - Chrome everywhere.
+
+### Communication
+
+- Email: Gmail.
+- Messaging: Whatsapp.
+- Messaging: Messenger.
+- Calling: Giffgaff.
+
+### Social media
+
+- Scrolling: Mastodon
+- Doom-scrolling: X.
+- Doom-scrolling: Reddit.
+
+### Entertainment
+
+- YouTube
+- todo: add more
 
 ## TodePond work
 
