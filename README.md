@@ -26,7 +26,7 @@ My use of software can be split into three categories.
 
 ### Communication
 
-- Email: Gmail
+- Messaging: Gmail
 - Messaging: Whatsapp
 - Messaging: Messenger
 - Messaging: Giffgaff
@@ -37,44 +37,120 @@ My use of software can be split into three categories.
 ### Social media
 
 - Scrolling: Mastodon
-- Doom-scrolling: X
-- Doom-scrolling: Reddit
+- Doom scrolling: X
+- Doom scrolling: Reddit
 
 ### Entertainment
 
-- YouTube
-- todo: add more
+- Watching: YouTube
+- Watching: Disney+
+- Watching: Netflix
+- Watching: iPlayer
+- Watching: Channel 4
+- Watching: Freeview
+- Watching: Pirated streams
+- Music: Spotify
+- Music: YouTube
+- Games: Nintendo Switch
+- Games: Playstation 5
+- Games: Google Play
+
+## Notes
+- tldraw
+- Notion
+- Workflowy
+- Google Keep
+
+## Money
+- Barclays
+- Monzo
 
 ## TodePond work
 
 ### Operating system
 
-- Windows on my desktop.
-- ChromeOS on my laptop.
-- Android on my phone.
-- MacOS on my laptop.
+- Desktop: Windows
+- Laptop: ChromeOS
+- Laptop: MacOS
+- Phone: Android
 
 ### Browser
 
-- Chrome everywhere.
-- Testing: Firefox on Windows.
-- Testing: Safari on MacOS.
+- Chrome
+- Testing: Firefox
+- Testing: Safari
+
+### Communication
+
+- Email: Gmail
+- Messaging: Discord
+- Messaging: Twitter
+- Messaging: Mastodon
+- Messaging: Slack
+- Calling: Discord
+- Calling: Google Meet
+
+### Social media
+
+- Managing: Discord
+- Posting: Mastodon
+- Posting: Slack
+- Posting: Instagram
+- Posting: Reddit
+- Posting: Hackernews
+- Protesting: X
+- Protesting: Bluesky
+- Protesting: Threads
+- Experimenting: TikTok
+
+### Coding
+
+- GitHub
+- VS Code
+
+### Hosting
+
+- Netlify
+- Google Domains
+
+### Entertainment
+
+- Posting: YouTube
+- Music: Anjuna Music Store
+- Music: Monstercat Gold
+
+### Blog
+
+- Posting: Patreon
+- Posting: Substack
+
+### Notes
+- Google Keep
+- GitHub
+- tldraw
+- VS Code
+
+### Money
+
+- Supporters: Patreon
+- Supporters: Substack
+- Supporters: Liberapay
+- Stripe
+- Paypal
 
 ## tldraw work 
 
 ### Operating system
 
-- MacOS on my laptop.
-- Android on my phone.
-- iOS on my tablet.
-- Testing: Windows on a laptop.
+- Laptop: MacOS
+- Phone: Android
+- Tablet: iOS
+- Testing: Laptop: Windows
 
 ### Browser
 
-- Chrome everywhere.
-- Testing: Firefox on MacOS.
-- Testing: Safari on MacOS.
-- Testing: Safari on iOS.
-- Testing: Firefox on Windows.
+- Chrome
+- Testing: Firefox
+- Testing: Safari
 
 todo: document everything else...
