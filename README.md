@@ -1,4 +1,4 @@
-# Opond
+# OPOND
 
 ## What is this?
 
@@ -10,23 +10,15 @@ And I was successful. Right now, *everything I use is open-source*.
 
 There were many reasons. Are you sure you want me to list them all? It's quite long.
 
-## Yes
+## Yes, I promise I'll read them all
 
-No, really... If I list them all out you'll probably get bored and stop reading.
+Ok, here you go. Here's why I switched to free-open-source everything:
 
-## I'll read them all
-
-Hmm... Do you promise? Do you promise to read this document in its entirety?
-
-## Yes, I promise. This esoteric FAQ section that you've started with has indicated to me that there will be various fourth-wall-breaking surprises along the way, so it'll be worth reading everything fully
-
-Ok, well, if you insist. Here's why I switched to free-open-source everything:
-
-# Why
+# WHY
 
 todo: write the reasons
 
-# Start
+# START
 
 The first job was to document everything I currently used. Here's a start...
 
