@@ -82,7 +82,7 @@ My use of software can be split into three categories.
 
 ### Communication
 
-- Email: Gmail
+- Messaging: Gmail
 - Messaging: Discord
 - Messaging: Twitter
 - Messaging: Mastodon
@@ -112,6 +112,39 @@ My use of software can be split into three categories.
 
 - Netlify
 - Google Domains
+
+### Languages
+
+- ECMAScript
+- TypeScript
+- CSS
+- HTML
+- JSX
+- TSX
+- JSON
+- C
+- Rust
+- Lua
+- WebAssembly
+- WebGL
+- SPLAT
+- Ulam
+- SpaceTode
+- MotherTode
+- ColourTode
+- C
+- Arroost
+
+### Ecosystem
+
+- React
+- Vite
+- Deno
+- Node
+- Yarn
+- NPM
+- Three.js
+- Perfect Freehand
 
 ### Entertainment
 
