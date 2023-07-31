@@ -1,32 +1,34 @@
-# OPOND
-
-## What is this?
+### What is this?
 
 This is my 24 month transition towards using free-open-source-software for everything I use. It began on the 30th July 2023. It ended on the 30th July 2025.
 
 And I was successful. Right now, *everything I use is open-source*.
 
-## Why?
+### Why?
 
 There were many reasons. Are you sure you want me to list them all? It's quite long.
 
-## Yes, I promise I'll read them all
+### Yes, I promise I'll read them all
 
 Ok, here you go. Here's why I switched to free-open-source everything:
 
-# WHY
+---
+
+# PART ONE: WHY
 
 todo: write the reasons
 
-# START
+---
 
-The first job was to document everything I currently used. Here's a start...
+# PART TWO: START
+
+My first job was to document everything I used.
 
 My use of software could be split into three categories.
 
-1. For my personal use.
-2. For my TodePond work.
-3. For my tldraw work.
+1. Personal use.
+2. TodePond work.
+3. tldraw work.
 
 ## Personal use
 
